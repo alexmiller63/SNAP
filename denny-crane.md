@@ -64,7 +64,7 @@ That is the difficult legal question, and it should not be minimized.
 
 But neither should the disability inquiry disappear simply because the ordinary rule clearly applies to me.
 
-## The Case in Two Sentences
+## The Case in Three Sentences
 
 The question for the judge is not whether I am a boarder.
 
