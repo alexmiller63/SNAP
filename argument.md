@@ -494,3 +494,20 @@ The present theory can be summarized as follows:
 
 That question should be resolved from verified statutory text, legislative history, disability law, case law, medical evidence, and the county's eventual Position Statement—not from assumptions about either side's position.
 
+## Kennedy Letter — Hearing Exhibit Relevance
+
+The published Kennedy letter should be included with the hearing submission as an exhibit.
+
+The exhibit is submitted to document that the broader policy issue presented in this hearing — the interaction between the SNAP boarder rule, federal disability law, and medically appropriate nutrition — has been raised with relevant federal, state, and local officials.
+
+The hearing version should consist of a single file containing:
+
+1. A brief heading identifying the relevance of the exhibit.
+
+2. The neutral explanatory paragraph above.
+
+3. A clear divider.
+
+4. The published Kennedy letter reproduced unchanged.
+
+The purpose of including the letter is to document the broader policy context and the fact that the issue has been raised with relevant officials. It should not be characterized as an attempt to influence or pressure the Administrative Law Judge.
