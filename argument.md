@@ -228,19 +228,53 @@ This distinction prevents the accommodation argument from being confused with an
 
 ---
 
-## 11. Meaningful Access
+## 11. Meaningful Access — Alexander v. Choate
 
 A central disability-law concept is meaningful access.
 
-The question is not necessarily satisfied by providing theoretical access to a benefit while disability-related circumstances make the benefit ineffective or inaccessible in practice.
+In **Alexander v. Choate, 469 U.S. 287 (1985)**, the Supreme Court considered Tennessee's decision to limit Medicaid recipients to 14 days of inpatient hospital coverage per year.
 
-The argument should investigate and, if supported by verified authority, apply the principle that reasonable modifications may be necessary to provide people with disabilities meaningful access to government benefits.
+The plaintiffs argued that the limitation had a disproportionate effect on people with disabilities because they were more likely to require longer hospital stays.
 
-Potential authority for further development:
+The Supreme Court recognized that Section 504 requires people with disabilities to be provided meaningful access to the benefit offered and that reasonable modifications may sometimes be necessary to provide that access.
 
-**Alexander v. Choate, 469 U.S. 287 (1985).**
+But the Court also imposed an important limitation.
 
-The actual opinion must be reviewed carefully before relying upon specific language or propositions from the case.
+Section 504 did not require Tennessee to redefine the benefit it had chosen to provide. Tennessee provided the same 14 days of inpatient coverage to disabled and nondisabled Medicaid recipients. Section 504 did not transform that defined benefit into a guarantee that every recipient receive enough hospital care to achieve an equivalent health outcome.
+
+### Distinguishing Choate
+
+The claimant's requested modification is materially different in an important respect.
+
+The claimant does not request a larger CalFresh allotment because of disability.
+
+He does not contend that, for example, if an otherwise comparable nondisabled household receives a particular monthly allotment, his disability entitles him to a larger allotment in order to achieve an equivalent nutritional outcome.
+
+He requests the same SNAP benefit available to other eligible households, calculated according to the ordinary SNAP benefit formula.
+
+The requested modification therefore concerns **access to the ordinary benefit, not enlargement of the benefit itself.**
+
+This distinction potentially separates the present case from the unsuccessful claim in Choate.
+
+### The Remaining Choate Problem
+
+Choate nevertheless presents an important issue for the claimant.
+
+The County may argue that the statutory boarder exclusion is itself an essential eligibility requirement defining who is entitled to participate in SNAP.
+
+Under that characterization, modifying the boarder exclusion would not merely provide meaningful access to an existing benefit. It would alter the class of people Congress made eligible to receive that benefit.
+
+That argument must be confronted directly.
+
+The claimant's position is that the requested accommodation does not change the amount, nature, or purpose of the SNAP benefit. It requests an individualized disability-related modification of an eligibility barrier so that the claimant may obtain the same benefit, under the same benefit calculation, that the program ordinarily provides.
+
+The ultimate question therefore remains whether modification of the boarder exclusion constitutes a reasonable means of providing meaningful access or instead crosses the line identified in Choate by fundamentally altering the program or redefining the benefit Congress chose to provide.
+
+Choate is consequently important to both sides of this case.
+
+It supports the principle that disability law may require reasonable modifications necessary for meaningful access.
+
+At the same time, it warns that disability law does not require government to redefine the benefit itself or make a fundamental alteration to the program.
 
 ---
 
