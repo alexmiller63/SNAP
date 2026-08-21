@@ -46,3 +46,119 @@ The federal rule asks whether meals are provided.
 
 My disability raises a different question: what happens when the meals that are provided do not permit a person to follow the diet medically recommended for management of his disability?
 
+My case is now before a California Administrative Law Judge.
+
+I am asking for a reasonable disability-related modification that would permit me to participate in CalFresh notwithstanding the ordinary boarder exclusion.
+
+I am not asking for a special or enlarged SNAP benefit.
+
+I am not asking the government to determine how much extra money my medical condition deserves.
+
+If I prevail, I am asking to receive the same benefit determined under the same ordinary SNAP calculation that applies to other participating households.
+
+There is another reason I believe this case deserves attention beyond my individual hearing.
+
+The federal government is now telling Americans that nutrition matters profoundly to health. That message is particularly important for Americans managing chronic disease.
+
+Yet an older federal food-assistance rule can treat the mere provision of meals as eliminating the need for food-purchasing assistance without addressing whether those meals permit a person with a disability to follow medically recommended nutrition.
+
+I do not suggest that Congress secretly wrote a nutritional-adequacy exception into the boarder rule.
+
+It did not.
+
+The question is instead whether our disability laws — including Title II of the Americans with Disabilities Act and Section 504 of the Rehabilitation Act — require an individualized reasonable modification when an otherwise valid benefits rule operates in this way for a person with a disability.
+
+That question is presently being litigated in my administrative hearing.
+
+I am bringing it to your attention because it appears to sit directly at the intersection of two important federal commitments: the integrity of the Supplemental Nutrition Assistance Program and the renewed national recognition that appropriate nutrition is an essential component of health.
+
+I respectfully ask that your Department examine this issue and consider whether current federal policy adequately addresses the interaction among SNAP's boarder rule, federal disability law, and medically appropriate nutrition.
+
+Respectfully,
+
+Alexander Ferrari Miller
+
+---
+
+# CC / Distribution
+
+## Brooke L. Rollins
+
+**Secretary of Agriculture**  
+
+U.S. Department of Agriculture
+
+Email: [askusda@usda.gov](mailto:askusda@usda.gov)  
+
+Telephone: 833-ONE-USDA
+
+USDA administers SNAP. Secretary Rollins and Secretary Kennedy have also jointly connected federal nutrition policy with the Make America Healthy Again agenda.
+
+---
+
+## Shiela Corley
+
+**Acting Administrator**  
+
+USDA Food and Nutrition Administration
+
+Telephone: 703-305-2060
+
+Food and Nutrition Administration  
+
+1320 Braddock Place  
+
+Alexandria, VA 22314
+
+Senior official in the USDA organization responsible for federal nutrition-assistance programs, including SNAP.
+
+---
+
+## Dr. Eve Stoody
+
+**Deputy Administrator, Nutrition Research and Regulations**  
+
+USDA Food and Nutrition Administration
+
+Telephone: 703-305-2060
+
+Food and Nutrition Administration  
+
+1320 Braddock Place  
+
+Alexandria, VA 22314
+
+Dr. Stoody's division is responsible for SNAP Policy and Regulations and is therefore directly relevant to the federal rule at issue in this case.
+
+---
+
+## USDA Civil Rights
+
+Email: [program.intake@usda.gov](mailto:program.intake@usda.gov)
+
+USDA civil-rights enforcement includes disability discrimination in USDA-funded nutrition programs, including SNAP.
+
+---
+
+## Luis Perez
+
+**Director, Disability Rights Section**  
+
+Civil Rights Division  
+
+U.S. Department of Justice
+
+Telephone: 202-307-0663
+
+U.S. Department of Justice  
+
+Civil Rights Division  
+
+Disability Rights Section  
+
+950 Pennsylvania Avenue NW  
+
+Washington, DC 20530
+
+The Disability Rights Section implements the Americans with Disabilities Act, including Title II, and coordinates federal agencies' implementation of Section 504 of the Rehabilitation Act.
+
