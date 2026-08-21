@@ -74,16 +74,9 @@ Suppose people who ordinarily constitute a single household live and eat togethe
 
 That is not what is occurring here.
 
+The claimant actually resides in a room-and-board residence. He pays for room and board and acknowledges that meals are provided as part of that arrangement.
 
-
-
-
-
-
-
-
-
-
+The claimant is unquestionably a genuine boarder. He is not attempting to convert an ordinary shared household into multiple SNAP households by relabeling himself as a boarder. His boarder status is not being asserted as a device to obtain separate SNAP eligibility.
 
 Indeed, the claimant concedes the very factual proposition the County is likely to emphasize: **he is a boarder.**
 
