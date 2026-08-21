@@ -2,9 +2,7 @@
 
 ## CalFresh, Disability, and the Make America Healthy Again Nutrition Agenda
 
-**Status:** Working draft  
-
-**Distribution research:** Approximately 75% complete
+**Status:** Working draft — distribution research substantially complete
 
 ---
 
@@ -16,7 +14,7 @@
 
 **Agency:** U.S. Department of Health and Human Services
 
-**Official correspondence route:**  
+**Official correspondence address:**  
 
 The Honorable Robert F. Kennedy Jr.  
 
@@ -42,15 +40,19 @@ Washington, DC 20201
 
 **Electronic route:**  
 
-No appropriate public electronic correspondence address verified yet.
+HHSExecSec@hhs.gov
 
-**Status:** VERIFIED — electronic route still being sought.
+**Important note:**  
+
+This address has been published by HHS for the Executive Secretariat. The current HHS page states that the Executive Secretariat directly supports the Secretary and handles correspondence and policy documents, although the current page gives a postal address for letters to Secretary Kennedy rather than publishing an email submission address.
 
 ---
 
 # CC / Distribution
 
-A recipient should generally be included because the person or office:
+The distribution list is deliberately broad but relevant.
+
+A recipient is included because the person or office:
 
 1. has responsibility for the issue;
 
@@ -60,9 +62,7 @@ A recipient should generally be included because the person or office:
 
 4. has direct factual or service involvement in the individual case.
 
-The goal is to provide complete publicly available official contact information and, wherever possible, a legitimate electronic address that can actually reach the recipient or the appropriate office.
-
-No email address should be guessed or inferred.
+No email address is guessed or inferred.
 
 ---
 
@@ -76,17 +76,15 @@ No email address should be guessed or inferred.
 
 **Reason for inclusion:**  
 
-USDA administers SNAP. Secretary Rollins and Secretary Kennedy have jointly connected SNAP policy with the Make America Healthy Again nutrition agenda.
+USDA administers SNAP. Secretary Rollins and Secretary Kennedy have also jointly connected federal nutrition policy with the Make America Healthy Again agenda.
 
-**Electronic route:**  
+**General USDA electronic routing address:**  
 
-No appropriate direct public correspondence email verified yet.
+askusda@usda.gov
 
-**Note:**  
+**Important note:**  
 
-Do not substitute `press@usda.gov`, which USDA identifies as a press-office address.
-
-**Status:** VERIFIED — electronic route still being researched.
+This is a USDA routing address, not Secretary Rollins's personal email address.
 
 ---
 
@@ -98,9 +96,9 @@ Do not substitute `press@usda.gov`, which USDA identifies as a press-office addr
 
 **Reason for inclusion:**  
 
-The Food and Nutrition Administration is the principal USDA agency administering the federal nutrition-assistance programs, including SNAP.
+Senior official in the USDA organization responsible for federal nutrition-assistance programs, including SNAP.
 
-**Office:**  
+**Address:**  
 
 Food and Nutrition Administration  
 
@@ -112,7 +110,9 @@ Alexandria, VA 22314
 
 703-305-2060
 
-**Status:** VERIFIED — electronic correspondence route still being researched.
+**Electronic route:**  
+
+Use the appropriate USDA/FNA routing channel; no direct public individual email address has been verified.
 
 ---
 
@@ -124,9 +124,9 @@ Alexandria, VA 22314
 
 **Reason for inclusion:**  
 
-Her division is specifically responsible for SNAP Policy and Regulations, as well as federal dietary-guidelines research and policy.
+Her division is responsible for SNAP Policy and Regulations and is therefore directly relevant to the federal rule at issue in this case.
 
-**Office:**  
+**Address:**  
 
 Food and Nutrition Administration  
 
@@ -138,7 +138,9 @@ Alexandria, VA 22314
 
 703-305-2060
 
-**Status:** VERIFIED — electronic correspondence route still being researched.
+**Electronic route:**  
+
+Use the appropriate USDA/FNA routing channel; no direct public individual email address has been verified.
 
 ---
 
@@ -154,15 +156,9 @@ Alexandria, VA 22314
 
 703-305-2062
 
-**USDA Information Hotline:**  
+**SNAP information:**  
 
-202-720-2791
-
-**SNAP Information:**  
-
-1-800-221-5689
-
-**Status:** VERIFIED.
+800-221-5689
 
 ---
 
@@ -184,11 +180,13 @@ San Francisco, CA 94103
 
 415-705-1310
 
+**Regional Civil Rights telephone:**  
+
+415-293-3715
+
 **Relevant functions:**  
 
 SNAP administration and regional civil-rights oversight.
-
-**Status:** VERIFIED — individual SNAP and civil-rights recipients and electronic routes still being finalized.
 
 ---
 
@@ -204,8 +202,6 @@ USDA civil-rights enforcement includes disability discrimination in USDA-funded 
 
 program.intake@usda.gov
 
-**Status:** VERIFIED.
-
 ---
 
 ## U.S. Department of Justice — Disability Rights Section
@@ -216,13 +212,63 @@ program.intake@usda.gov
 
 **Reason for inclusion:**  
 
-The Disability Rights Section implements the Americans with Disabilities Act and coordinates with federal agencies concerning consistent implementation of Section 504 of the Rehabilitation Act.
+The Disability Rights Section implements the Americans with Disabilities Act, including Title II, and coordinates federal agencies' implementation of Section 504 of the Rehabilitation Act.
 
 **Telephone:**  
 
 202-307-0663
 
-**Status:** VERIFIED — appropriate electronic correspondence route still being finalized.
+**Address:**  
+
+U.S. Department of Justice  
+
+Civil Rights Division  
+
+Disability Rights Section  
+
+950 Pennsylvania Avenue NW  
+
+Washington, DC 20530
+
+**Distribution note:**  
+
+The Disability Rights Section should remain on the visible distribution list. A complaint-intake mailbox should not be represented as Director Perez's correspondence email.
+
+---
+
+## U.S. Attorney's Office — Central District of California, Civil Rights Section
+
+**Reason for inclusion:**  
+
+The Central District of California includes San Bernardino County. Its Civil Rights Section enforces federal civil-rights laws, including the Americans with Disabilities Act.
+
+**Address:**  
+
+United States Attorney's Office  
+
+Central District of California  
+
+Civil Division  
+
+Attn: Civil Rights Section  
+
+300 N. Los Angeles Street  
+
+Suite 7516  
+
+Los Angeles, CA 90012
+
+**Telephone:**  
+
+213-894-2879
+
+**Fax:**  
+
+213-894-7819
+
+**Email:**  
+
+USACAC.CV-CivilRights@usdoj.gov
 
 ---
 
@@ -238,8 +284,6 @@ Federal civil-rights office with disability-discrimination responsibilities with
 
 OCRComplaint@hhs.gov
 
-**Status:** VERIFIED.
-
 ---
 
 # California — CalFresh and State Administration
@@ -254,11 +298,13 @@ OCRComplaint@hhs.gov
 
 CDSS administers CalFresh at the state level.
 
-**Electronic route:**  
+**Electronic routing address:**  
 
 piar@dss.ca.gov
 
-**Status:** VERIFIED.
+**Important note:**  
+
+This is a CDSS public-assistance inquiry and routing address, not Director Troia's personal email address.
 
 ---
 
@@ -272,8 +318,6 @@ The CalFresh matter discussed in this letter is presently before the California 
 
 SHDCSU@dss.ca.gov
 
-**Status:** VERIFIED.
-
 ---
 
 ## Margaret A. Boyd
@@ -284,9 +328,15 @@ SHDCSU@dss.ca.gov
 
 **Reason for inclusion:**  
 
-Senior official responsible for the State Hearings Division.
+Senior official responsible for the State Hearings Division in which the case is pending.
 
-**Status:** VERIFIED — individual electronic route still being researched.
+**Electronic route:**  
+
+SHDCSU@dss.ca.gov
+
+**Important note:**  
+
+This is the State Hearings Division address and is not represented as Judge Boyd's personal email address.
 
 ---
 
@@ -300,8 +350,6 @@ Relevant to disability discrimination and civil-rights issues in California soci
 
 crb@dss.ca.gov
 
-**Status:** VERIFIED.
-
 ---
 
 # San Bernardino County
@@ -310,13 +358,11 @@ crb@dss.ca.gov
 
 **Reason for inclusion:**  
 
-County department responsible for local CalFresh administration.
+County department responsible for local administration of CalFresh.
 
 **Electronic route:**  
 
 TADInquiries@hss.sbcounty.gov
-
-**Status:** VERIFIED.
 
 ---
 
@@ -330,35 +376,63 @@ TADInquiries@hss.sbcounty.gov
 
 Director of the county department responsible for administering CalFresh.
 
-**Electronic route:**  
+**Electronic routing address:**  
 
 TADInquiries@hss.sbcounty.gov
 
-**Note:**  
+**Important note:**  
 
-This is the department's public inquiry address, not represented as Mr. LoCurto's personal email address.
-
-**Status:** VERIFIED.
+This is the department's public inquiry address and is not represented as Mr. LoCurto's personal email address.
 
 ---
 
-## Jesus Garcia
+## Jesus Vera-Garcia
 
-**Title:** Adult Protective Services Social Worker  
-
-**Agency:** San Bernardino County
+**Agency:** San Bernardino County Adult Protective Services
 
 **Reason for inclusion:**  
 
-Direct service involvement in the circumstances underlying this matter.
+Direct service involvement in the circumstances underlying this matter. Mr. Vera-Garcia has discussed supportive services relating to meal preparation, making his involvement relevant to the factual intersection between disability-related needs and food preparation.
 
-Mr. Garcia has discussed supportive services relating to meal preparation, making his involvement relevant to the factual intersection between disability-related needs and food preparation.
+**Professional email:**  
 
-**Status:** INCLUDE — verified professional electronic route still being sought.
+Jesus.Vera-Garcia@hss.sbcounty.gov
+
+**Source note:**  
+
+Professional email address supplied directly by the claimant; not independently located in the County's public directory.
 
 ---
 
 # Elected Representatives
+
+## Joe Baca Jr.
+
+**Title:** Supervisor, Fifth District  
+
+**Agency:** San Bernardino County Board of Supervisors
+
+**Reason for inclusion:**  
+
+Local elected representative and county-level oversight connection to the county agency administering CalFresh.
+
+**Address:**  
+
+385 N. Arrowhead Avenue  
+
+Fifth Floor  
+
+San Bernardino, CA 92415
+
+**Telephone:**  
+
+909-387-4565
+
+**Email:**  
+
+Supervisor.Baca@bos.sbcounty.gov
+
+---
 
 ## Pete Aguilar
 
@@ -366,9 +440,23 @@ Mr. Garcia has discussed supportive services relating to meal preparation, makin
 
 **Reason for inclusion:**  
 
-Federal congressional representation for the San Bernardino area and potential federal constituent-assistance and oversight connection.
+Federal congressional representation for the San Bernardino area and potential constituent-assistance and federal oversight connection.
 
-**Status:** VERIFIED AS RELEVANT — complete district-office and electronic constituent-contact route being finalized.
+**San Bernardino District Office:**  
+
+685 E. Carnegie Drive  
+
+Suite 100  
+
+San Bernardino, CA 92408
+
+**Telephone:**  
+
+909-890-4445
+
+**Electronic route:**  
+
+Official congressional constituent-contact form.
 
 ---
 
@@ -382,7 +470,25 @@ Federal congressional representation for the San Bernardino area and potential f
 
 United States Senator representing California.
 
-**Status:** VERIFIED AS RELEVANT — official constituent-contact route being finalized.
+**Los Angeles Office:**  
+
+255 E. Temple Street  
+
+Suite 1860  
+
+Los Angeles, CA 90012
+
+**Telephone:**  
+
+310-231-4494
+
+**Electronic route for this correspondence:**  
+
+Official "Write to Alex" constituent-contact form.
+
+**Important note:**  
+
+Senator Padilla publishes `casework@padilla.senate.gov` for federal-agency casework. This policy correspondence should instead be submitted through his general "Write to Alex" constituent-contact route unless it is later converted into a request for federal-agency casework.
 
 ---
 
@@ -396,7 +502,11 @@ United States Senator representing California.
 
 United States Senator representing California.
 
-**Status:** VERIFIED AS RELEVANT — official constituent-contact route being finalized.
+Senator Schiff also serves on the Senate Committee on Agriculture, Nutrition, and Forestry, giving him a direct policy connection to SNAP in addition to his role as a California senator.
+
+**Electronic route:**  
+
+Official Senate constituent-contact form.
 
 ---
 
@@ -406,9 +516,25 @@ United States Senator representing California.
 
 **Reason for inclusion:**  
 
-State legislative representation for the San Bernardino area.
+State legislative representative for the San Bernardino area.
 
-**Status:** VERIFIED AS RELEVANT — complete district-office and electronic contact information being finalized.
+Assemblymember Ramos also serves on the California Assembly Select Committee on CalFresh Enrollment and Nutrition, giving him a specific policy connection to the subject of this correspondence beyond constituent representation.
+
+**San Bernardino District Office:**  
+
+290 N. D Street  
+
+Suite 805  
+
+San Bernardino, CA 92401
+
+**Telephone:**  
+
+909-889-7145
+
+**Electronic route:**  
+
+Official California Assembly electronic contact form.
 
 ---
 
@@ -418,7 +544,11 @@ State legislative representation for the San Bernardino area.
 
 **District:** 29
 
-**District office:**  
+**Reason for inclusion:**  
+
+State legislative representation for the San Bernardino area.
+
+**District Office:**  
 
 301 E. Vanderbilt Way  
 
@@ -430,27 +560,43 @@ San Bernardino, CA 92408
 
 909-888-5360
 
-**Reason for inclusion:**  
+**Electronic route:**  
 
-State legislative representation for the San Bernardino area.
-
-**Status:** VERIFIED — electronic contact route still being finalized.
+Official California Senate electronic contact form.
 
 ---
 
-## San Bernardino County Supervisor
+# Congressional SNAP Oversight
+
+## Senate Committee on Agriculture, Nutrition, and Forestry
+
+**Chair:** John Boozman  
+
+**Ranking Member:** Amy Klobuchar
 
 **Reason for inclusion:**  
 
-Local elected representation and county oversight of county-administered CalFresh.
+The committee has direct Senate jurisdiction relevant to SNAP and federal nutrition policy.
 
-**Status:** CURRENT DISTRICT REPRESENTATIVE STILL TO BE VERIFIED BEFORE INSERTION.
+**Address:**  
 
-Do not guess the claimant's supervisorial district.
+328A Russell Senate Office Building  
+
+Washington, DC 20510
+
+**Telephone:**  
+
+202-224-2035
+
+**Note:**  
+
+Senator Adam Schiff is separately included because he is both a California senator and a member of this committee.
 
 ---
 
-# Letter
+# Email
+
+**Subject:** CalFresh, Disability, and the Make America Healthy Again Nutrition Agenda
 
 Dear Secretary Kennedy:
 
@@ -520,57 +666,73 @@ Alexander Ferrari Miller
 
 ---
 
-# Electronic Distribution Rules
+# Electronic CC Field
 
-The final email should contain two related but distinct distribution mechanisms.
+These are the currently identified email addresses appropriate for direct electronic delivery or routing:
 
-## Body Distribution List
+HHSExecSec@hhs.gov  
 
-The beginning of the email should visibly identify all relevant recipients, including people for whom no email address is available.
+askusda@usda.gov  
 
-For each recipient, include as much verified public information as appropriate:
+program.intake@usda.gov  
 
-- full name;
+USACAC.CV-CivilRights@usdoj.gov  
 
-- title;
+OCRComplaint@hhs.gov  
 
-- agency or organization;
+piar@dss.ca.gov  
 
-- mailing address;
+SHDCSU@dss.ca.gov  
 
-- telephone number;
+crb@dss.ca.gov  
 
-- verified email address or other electronic route.
+TADInquiries@hss.sbcounty.gov  
 
-## Actual Email CC Field
+Jesus.Vera-Garcia@hss.sbcounty.gov  
 
-The electronic CC field should contain every verified email address that legitimately reaches a recipient or the appropriate recipient's office.
+Supervisor.Baca@bos.sbcounty.gov
 
-Do not:
+---
 
-- guess email addresses;
+# Recipients Requiring Separate Electronic Submission
 
-- infer addresses from agency naming conventions;
+The following recipients remain on the visible distribution list but should receive the letter through their official electronic contact forms rather than through a guessed or inappropriate email address.
 
-- use press addresses for policy correspondence merely because they are available;
+## Pete Aguilar
 
-- use unrelated technical-support addresses;
+Submit through Representative Aguilar's official constituent-contact form.
 
-- represent a general mailbox as a person's direct email address.
+## Alex Padilla
 
-When no public email address exists, search for:
+Submit through Senator Padilla's official "Write to Alex" constituent-contact form.
 
-1. an official constituent or correspondence email;
+## Adam Schiff
 
-2. an appropriate agency or program mailbox;
+Submit through Senator Schiff's official constituent-contact form.
 
-3. an official electronic contact form;
+## James C. Ramos
 
-4. an electronic complaint or civil-rights submission route; or
+Submit through Assemblymember Ramos's official electronic contact form.
 
-5. another legitimate electronic submission method.
+## Eloise Gómez Reyes
 
-Physical mail is a last resort because an electronic means of transmitting the correspondence is needed.
+Submit through Senator Reyes's official electronic contact form.
+
+---
+
+# Distribution Notes
+
+The visible distribution list and the electronic CC field serve different purposes.
+
+The visible distribution list identifies the people and offices being notified and explains why each is relevant.
+
+The electronic CC field contains only legitimate email routes appropriate for transmitting this correspondence.
+
+A general routing address is not represented as an individual's personal email address.
+
+An official web contact form is preferable to guessing an email address.
+
+Complaint-intake addresses should not be used merely because they exist when a more appropriate correspondence route is available.
 
 ---
 
@@ -582,8 +744,6 @@ Physical mail is a last resort because an electronic means of transmitting the c
 
 Her connection is peripheral to the policy and legal question, and there is no reason to draw her into broad governmental correspondence.
 
----
-
 ## Phil Hernandez
 
 **Status:** DO NOT INCLUDE.
@@ -592,53 +752,10 @@ Although he has a factual connection to the room-and-board arrangement, includin
 
 ---
 
-# Distribution Research Status
+# Distribution Principle
 
-**Approximate completion at this checkpoint: 75%.**
+**A person belongs on the visible distribution list because that person has responsibility for the issue, represents the claimant, exercises relevant oversight, or has direct factual involvement.**
 
-Still to complete:
+**An address belongs in the electronic CC field only when it is a legitimate electronic route appropriate for reaching that person or office.**
 
-- appropriate electronic route to Secretary Kennedy's Executive Secretariat;
-
-- appropriate electronic route to Secretary Rollins;
-
-- individual USDA Western Regional SNAP and civil-rights contacts;
-
-- DOJ Disability Rights Section electronic correspondence route;
-
-- final HHS civil-rights contact verification;
-
-- additional California CalFresh leadership where warranted;
-
-- additional San Bernardino County leadership where warranted;
-
-- claimant's correct San Bernardino County supervisor;
-
-- final district/contact verification for Pete Aguilar;
-
-- final constituent-contact routes for Alex Padilla and Adam Schiff;
-
-- final electronic contact information for James C. Ramos;
-
-- final electronic contact information for Eloise Gómez Reyes;
-
-- relevant congressional committee leadership;
-
-- Jesus Garcia's professional contact route;
-
-- final verification of every electronic address;
-
-- removal of duplicates;
-
-- final decision regarding body-only recipients versus electronic CC recipients.
-
----
-
-# Governing Principle
-
-**A person belongs on the distribution list because that person has responsibility for the issue, represents the claimant, exercises relevant oversight, or has direct factual involvement.**
-
-**The electronic CC address must then be the best legitimate electronic route available to reach that person or office.**
-
-No address should be invented merely to make the list complete.
-
+No address should be invented merely to make the electronic list complete.
