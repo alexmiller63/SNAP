@@ -162,3 +162,213 @@ Washington, DC 20530
 
 The Disability Rights Section implements the Americans with Disabilities Act, including Title II, and coordinates federal agencies' implementation of Section 504 of the Rehabilitation Act.
 
+---
+
+## U.S. Attorney's Office — Central District of California
+
+**Civil Rights Section**
+
+Email: [USACAC.CV-CivilRights@usdoj.gov](mailto:USACAC.CV-CivilRights@usdoj.gov)  
+
+Telephone: 213-894-2879  
+
+Fax: 213-894-7819
+
+United States Attorney's Office  
+
+Central District of California  
+
+Civil Division — Civil Rights Section  
+
+300 N. Los Angeles Street, Suite 7516  
+
+Los Angeles, CA 90012
+
+The Central District of California includes San Bernardino County. Its Civil Rights Section enforces federal civil-rights laws, including the Americans with Disabilities Act.
+
+---
+
+## HHS Office for Civil Rights
+
+Email: [OCRComplaint@hhs.gov](mailto:OCRComplaint@hhs.gov)
+
+The HHS Office for Civil Rights accepts disability-discrimination matters involving state and local social-services agencies.
+
+---
+
+# California — CalFresh and State Administration
+
+## Jennifer Troia
+
+**Director**  
+
+California Department of Social Services
+
+Email: [piar@dss.ca.gov](mailto:piar@dss.ca.gov)
+
+CDSS administers CalFresh at the state level.
+
+---
+
+## California Department of Social Services — State Hearings Division
+
+Email: [SHDCSU@dss.ca.gov](mailto:SHDCSU@dss.ca.gov)
+
+My CalFresh matter is presently before the California State Hearings Division.
+
+---
+
+## Margaret A. Boyd
+
+**Chief Administrative Law Judge**  
+
+California Department of Social Services  
+
+State Hearings Division
+
+Electronic contact: [SHDCSU@dss.ca.gov](mailto:SHDCSU@dss.ca.gov)
+
+Judge Boyd is the senior administrative law official responsible for the State Hearings Division in which my case is pending.
+
+---
+
+## California Department of Social Services — Civil Rights
+
+Email: [crb@dss.ca.gov](mailto:crb@dss.ca.gov)
+
+This office is included because of the disability and civil-rights issues raised by the application of CalFresh rules in my case.
+
+---
+
+# San Bernardino County
+
+## James LoCurto
+
+**Director**  
+
+San Bernardino County Transitional Assistance Department
+
+Email: [TADInquiries@hss.sbcounty.gov](mailto:TADInquiries@hss.sbcounty.gov)
+
+Mr. LoCurto directs the county department responsible for administering CalFresh locally.
+
+---
+
+## San Bernardino County Transitional Assistance Department
+
+Email: [TADInquiries@hss.sbcounty.gov](mailto:TADInquiries@hss.sbcounty.gov)
+
+TAD is the county agency directly responsible for the CalFresh determination underlying my administrative hearing.
+
+---
+
+## Jesus Vera-Garcia
+
+**Adult Protective Services**  
+
+San Bernardino County
+
+Email: [Jesus.Vera-Garcia@hss.sbcounty.gov](mailto:Jesus.Vera-Garcia@hss.sbcounty.gov)
+
+Mr. Vera-Garcia has direct service involvement in my circumstances and has discussed supportive services relating to meal preparation. His involvement therefore bears directly on the intersection between my disability-related needs and food preparation.
+
+---
+
+# Elected Representatives
+
+## Joe Baca Jr.
+
+**Supervisor, Fifth District**  
+
+San Bernardino County Board of Supervisors
+
+Email: [Supervisor.Baca@bos.sbcounty.gov](mailto:Supervisor.Baca@bos.sbcounty.gov)  
+
+Telephone: 909-387-4565
+
+385 N. Arrowhead Avenue, Fifth Floor  
+
+San Bernardino, CA 92415
+
+Supervisor Baca is my county representative and has a county-level oversight connection to the agency administering CalFresh.
+
+---
+
+## Pete Aguilar
+
+**Member of Congress**  
+
+U.S. House of Representatives
+
+Telephone: 909-890-4445
+
+685 E. Carnegie Drive, Suite 100  
+
+San Bernardino, CA 92408
+
+**Electronic delivery:** Official congressional constituent-contact form
+
+Representative Aguilar represents the San Bernardino area in Congress and has both a constituent-assistance role and a federal legislative and oversight interest in federal benefit programs.
+
+---
+
+## Alex Padilla
+
+**United States Senator**  
+
+California
+
+Telephone: 310-231-4494
+
+255 E. Temple Street, Suite 1860  
+
+Los Angeles, CA 90012
+
+**Electronic delivery:** Official "Write to Alex" constituent-contact form
+
+Senator Padilla represents California in the United States Senate and has federal constituent-services and legislative responsibilities relevant to federal benefits policy.
+
+---
+
+## Adam Schiff
+
+**United States Senator**  
+
+California
+
+**Electronic delivery:** Official Senate constituent-contact form
+
+Senator Schiff represents California and serves on the Senate Committee on Agriculture, Nutrition, and Forestry, giving him a direct legislative connection to SNAP and federal nutrition policy.
+
+---
+
+## James C. Ramos
+
+**California State Assembly**
+
+Telephone: 909-889-7145
+
+290 N. D Street, Suite 805  
+
+San Bernardino, CA 92401
+
+**Electronic delivery:** Official California Assembly contact form
+
+Assemblymember Ramos represents the San Bernardino area and serves on the California Assembly Select Committee on CalFresh Enrollment and Nutrition, giving him a specific policy connection to this matter.
+
+---
+
+## Eloise Gómez Reyes
+
+**California State Senator, District 29**
+
+Telephone: 909-888-5360
+
+301 E. Vanderbilt Way, Suite 400  
+
+San Bernardino, CA 92408
+
+**Electronic delivery:** Official California Senate contact form
+
+Senator Reyes represents the San Bernardino area and therefore has both a constituent and state-policy interest in CalFresh administration.
+
