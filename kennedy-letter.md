@@ -4,7 +4,7 @@
 
 **Status:** Working draft  
 
-**Distribution research:** Approximately 50% complete
+**Distribution research:** Approximately 75% complete
 
 ---
 
@@ -18,9 +18,7 @@
 
 **Official correspondence route:**  
 
-Office of the Secretary  
-
-Executive Secretariat  
+The Honorable Robert F. Kennedy Jr.  
 
 U.S. Department of Health and Human Services  
 
@@ -28,15 +26,29 @@ U.S. Department of Health and Human Services
 
 Washington, DC 20201
 
+**Correspondence office:**  
+
+Executive Secretariat  
+
+Room 603-H  
+
+200 Independence Avenue SW  
+
+Washington, DC 20201
+
+**Executive Secretary:** Liesl Fowler  
+
+**Deputy Executive Secretary:** Wilma M. Robinson
+
 **Electronic route:**  
 
-No appropriate direct public email address verified yet.
+No appropriate public electronic correspondence address verified yet.
+
+**Status:** VERIFIED — electronic route still being sought.
 
 ---
 
 # CC / Distribution
-
-The final distribution list is deliberately broad but relevant.
 
 A recipient should generally be included because the person or office:
 
@@ -54,9 +66,9 @@ No email address should be guessed or inferred.
 
 ---
 
-## Federal — USDA / SNAP
+# Federal — USDA / SNAP
 
-### Brooke L. Rollins
+## Brooke L. Rollins
 
 **Title:** Secretary of Agriculture  
 
@@ -64,7 +76,7 @@ No email address should be guessed or inferred.
 
 **Reason for inclusion:**  
 
-USDA administers SNAP. Secretary Rollins has also worked jointly with Secretary Kennedy on the federal government's current nutrition and Make America Healthy Again agenda.
+USDA administers SNAP. Secretary Rollins and Secretary Kennedy have jointly connected SNAP policy with the Make America Healthy Again nutrition agenda.
 
 **Electronic route:**  
 
@@ -72,23 +84,13 @@ No appropriate direct public correspondence email verified yet.
 
 **Note:**  
 
-Do not use USDA press-office email addresses merely because they are publicly available. A press address is not an appropriate substitute for a policy-correspondence address.
+Do not substitute `press@usda.gov`, which USDA identifies as a press-office address.
 
-**Status:** VERIFIED IN PART — electronic route still being researched.
-
----
-
-### USDA Food and Nutrition Administration
-
-**Agency:** U.S. Department of Agriculture
-
-USDA reorganized its nutrition-program administration. Current organizational names and titles must be used rather than relying upon older Food and Nutrition Service information.
-
-**Status:** CURRENT ORGANIZATION VERIFIED.
+**Status:** VERIFIED — electronic route still being researched.
 
 ---
 
-### Shiela Corley
+## Shiela Corley
 
 **Title:** Acting Administrator  
 
@@ -96,31 +98,79 @@ USDA reorganized its nutrition-program administration. Current organizational na
 
 **Reason for inclusion:**  
 
-Senior official in the USDA organization administering federal nutrition-assistance programs.
+The Food and Nutrition Administration is the principal USDA agency administering the federal nutrition-assistance programs, including SNAP.
 
-**Status:** VERIFIED — electronic route still being researched.
+**Office:**  
+
+Food and Nutrition Administration  
+
+1320 Braddock Place  
+
+Alexandria, VA 22314
+
+**Telephone:**  
+
+703-305-2060
+
+**Status:** VERIFIED — electronic correspondence route still being researched.
 
 ---
 
-### Dr. Eve Stoody
+## Dr. Eve Stoody
+
+**Title:** Deputy Administrator, Nutrition Research and Regulations  
 
 **Agency:** USDA Food and Nutrition Administration
 
 **Reason for inclusion:**  
 
-Heads the division currently responsible for SNAP policy and regulations.
+Her division is specifically responsible for SNAP Policy and Regulations, as well as federal dietary-guidelines research and policy.
 
-**Status:** VERIFIED — complete title and electronic correspondence route still being assembled.
+**Office:**  
+
+Food and Nutrition Administration  
+
+1320 Braddock Place  
+
+Alexandria, VA 22314
+
+**Telephone:**  
+
+703-305-2060
+
+**Status:** VERIFIED — electronic correspondence route still being researched.
 
 ---
 
-### USDA Western Regional Office
+## USDA Food and Nutrition Administration
 
-**Agency:** USDA nutrition-program administration
+**Address:**  
+
+1320 Braddock Place  
+
+Alexandria, VA 22314
+
+**Main telephone:**  
+
+703-305-2062
+
+**USDA Information Hotline:**  
+
+202-720-2791
+
+**SNAP Information:**  
+
+1-800-221-5689
+
+**Status:** VERIFIED.
+
+---
+
+## USDA Western Regional Office
 
 **Reason for inclusion:**  
 
-Regional USDA office responsible for California SNAP administration.
+Regional USDA nutrition-program office responsible for California.
 
 **Address:**  
 
@@ -134,53 +184,67 @@ San Francisco, CA 94103
 
 415-705-1310
 
-**Relevant functions include:**  
+**Relevant functions:**  
 
 SNAP administration and regional civil-rights oversight.
 
-**Status:** VERIFIED — individual recipient and electronic route still being researched.
+**Status:** VERIFIED — individual SNAP and civil-rights recipients and electronic routes still being finalized.
 
 ---
 
-## Federal — Disability and Civil Rights
+# Federal — Disability and Civil Rights
 
-### USDA Civil Rights
+## USDA Civil Rights
 
 **Reason for inclusion:**  
 
-USDA civil-rights enforcement includes disability discrimination in USDA-funded programs, including SNAP.
+USDA civil-rights enforcement includes disability discrimination in USDA-funded nutrition programs, including SNAP.
 
-**Status:** VERIFIED — appropriate electronic route identified during research; complete contact entry to be inserted during final verification pass.
+**Electronic route:**  
+
+program.intake@usda.gov
+
+**Status:** VERIFIED.
 
 ---
 
-### U.S. Department of Justice — Disability Rights Section
+## U.S. Department of Justice — Disability Rights Section
+
+**Director:** Luis Perez  
 
 **Agency:** Civil Rights Division, U.S. Department of Justice
 
 **Reason for inclusion:**  
 
-Relevant to Title II of the Americans with Disabilities Act and federal coordination of disability-rights requirements.
+The Disability Rights Section implements the Americans with Disabilities Act and coordinates with federal agencies concerning consistent implementation of Section 504 of the Rehabilitation Act.
 
-**Status:** VERIFIED AS RELEVANT — specific recipient and electronic route still being researched.
+**Telephone:**  
+
+202-307-0663
+
+**Status:** VERIFIED — appropriate electronic correspondence route still being finalized.
 
 ---
 
-### HHS Office for Civil Rights
+## HHS Office for Civil Rights
 
 **Agency:** U.S. Department of Health and Human Services
 
 **Reason for inclusion:**  
 
-Federal disability-rights enforcement within HHS.
+Federal civil-rights office with disability-discrimination responsibilities within HHS.
 
-**Status:** VERIFIED AS RELEVANT — complete contact entry still being assembled.
+**Electronic route:**  
+
+OCRComplaint@hhs.gov
+
+**Status:** VERIFIED.
 
 ---
 
-## California — CalFresh and State Administration
+# California — CalFresh and State Administration
 
-### Jennifer Troia
+## Jennifer Troia
 
 **Title:** Director  
 
@@ -194,15 +258,11 @@ CDSS administers CalFresh at the state level.
 
 piar@dss.ca.gov
 
-**Note:**  
-
-CDSS identifies this address for public-assistance inquiries and routing to the appropriate program representative.
-
 **Status:** VERIFIED.
 
 ---
 
-### California Department of Social Services — State Hearings Division
+## California Department of Social Services — State Hearings Division
 
 **Reason for inclusion:**  
 
@@ -216,7 +276,7 @@ SHDCSU@dss.ca.gov
 
 ---
 
-### Margaret A. Boyd
+## Margaret A. Boyd
 
 **Title:** Chief Administrative Law Judge  
 
@@ -230,27 +290,27 @@ Senior official responsible for the State Hearings Division.
 
 ---
 
-### California Department of Social Services — Civil Rights
-
-**Electronic route:**  
-
-crb@dss.ca.gov
+## California Department of Social Services — Civil Rights
 
 **Reason for inclusion:**  
 
 Relevant to disability discrimination and civil-rights issues in California social-services programs.
 
+**Electronic route:**  
+
+crb@dss.ca.gov
+
 **Status:** VERIFIED.
 
 ---
 
-## San Bernardino County
+# San Bernardino County
 
-### San Bernardino County Transitional Assistance Department
+## San Bernardino County Transitional Assistance Department
 
 **Reason for inclusion:**  
 
-County agency responsible for local administration of CalFresh.
+County department responsible for local CalFresh administration.
 
 **Electronic route:**  
 
@@ -260,7 +320,29 @@ TADInquiries@hss.sbcounty.gov
 
 ---
 
-### Jesus Garcia
+## James LoCurto
+
+**Title:** Director  
+
+**Agency:** San Bernardino County Transitional Assistance Department
+
+**Reason for inclusion:**  
+
+Director of the county department responsible for administering CalFresh.
+
+**Electronic route:**  
+
+TADInquiries@hss.sbcounty.gov
+
+**Note:**  
+
+This is the department's public inquiry address, not represented as Mr. LoCurto's personal email address.
+
+**Status:** VERIFIED.
+
+---
+
+## Jesus Garcia
 
 **Title:** Adult Protective Services Social Worker  
 
@@ -272,17 +354,13 @@ Direct service involvement in the circumstances underlying this matter.
 
 Mr. Garcia has discussed supportive services relating to meal preparation, making his involvement relevant to the factual intersection between disability-related needs and food preparation.
 
-**Contact information:**  
-
-Use verified professional contact information only.
-
-**Status:** INCLUDE — professional electronic route still to be verified.
+**Status:** INCLUDE — verified professional electronic route still being sought.
 
 ---
 
-## Elected Representatives
+# Elected Representatives
 
-### Pete Aguilar
+## Pete Aguilar
 
 **Office:** U.S. House of Representatives
 
@@ -290,11 +368,11 @@ Use verified professional contact information only.
 
 Federal congressional representation for the San Bernardino area and potential federal constituent-assistance and oversight connection.
 
-**Status:** VERIFIED AS RELEVANT — complete local-office and electronic contact information being finalized.
+**Status:** VERIFIED AS RELEVANT — complete district-office and electronic constituent-contact route being finalized.
 
 ---
 
-### Alex Padilla
+## Alex Padilla
 
 **Office:** United States Senate  
 
@@ -302,13 +380,13 @@ Federal congressional representation for the San Bernardino area and potential f
 
 **Reason for inclusion:**  
 
-U.S. Senator representing California.
+United States Senator representing California.
 
-**Status:** VERIFIED AS RELEVANT — official electronic constituent-contact route still being assembled.
+**Status:** VERIFIED AS RELEVANT — official constituent-contact route being finalized.
 
 ---
 
-### Adam Schiff
+## Adam Schiff
 
 **Office:** United States Senate  
 
@@ -316,13 +394,13 @@ U.S. Senator representing California.
 
 **Reason for inclusion:**  
 
-U.S. Senator representing California.
+United States Senator representing California.
 
-**Status:** VERIFIED AS RELEVANT — official electronic constituent-contact route still being assembled.
+**Status:** VERIFIED AS RELEVANT — official constituent-contact route being finalized.
 
 ---
 
-### James C. Ramos
+## James C. Ramos
 
 **Office:** California State Assembly
 
@@ -334,51 +412,41 @@ State legislative representation for the San Bernardino area.
 
 ---
 
-### Eloise Gómez Reyes
+## Eloise Gómez Reyes
 
-**Office:** California State Senate
+**Office:** California State Senate  
+
+**District:** 29
+
+**District office:**  
+
+301 E. Vanderbilt Way  
+
+Suite 400  
+
+San Bernardino, CA 92408
+
+**Telephone:**  
+
+909-888-5360
 
 **Reason for inclusion:**  
 
 State legislative representation for the San Bernardino area.
 
-**Status:** VERIFIED AS RELEVANT — complete district-office and electronic contact information being finalized.
+**Status:** VERIFIED — electronic contact route still being finalized.
 
 ---
 
-### San Bernardino County Supervisor
+## San Bernardino County Supervisor
 
 **Reason for inclusion:**  
 
-Local elected representation and county oversight.
+Local elected representation and county oversight of county-administered CalFresh.
 
-**Status:** DISTRICT / CURRENT REPRESENTATIVE STILL TO BE VERIFIED BEFORE INSERTION.
+**Status:** CURRENT DISTRICT REPRESENTATIVE STILL TO BE VERIFIED BEFORE INSERTION.
 
-Do not guess which member of the San Bernardino County Board of Supervisors represents the claimant.
-
----
-
-## Directly Involved Factual Party
-
-### Phil Hernandez
-
-**Role:** Room-and-Board Operator
-
-**Reason for inclusion:**  
-
-Direct factual connection to the room-and-board arrangement underlying the CalFresh boarder issue.
-
-The correspondence should identify Mr. Hernandez neutrally and should not transform this letter into a complaint against him or the residence.
-
-**Contact information:**  
-
-Use the legitimate contact information provided on the 3-day notice to pay rent or quit.
-
-**Email:**  
-
-No email address currently available.
-
-**Status:** INCLUDE IN BODY DISTRIBUTION LIST. Do not place in electronic CC field unless a legitimate email address is obtained.
+Do not guess the claimant's supervisorial district.
 
 ---
 
@@ -506,41 +574,63 @@ Physical mail is a last resort because an electronic means of transmitting the c
 
 ---
 
+# Removed From Distribution
+
+## Alyssa — Step Up
+
+**Status:** DO NOT INCLUDE.
+
+Her connection is peripheral to the policy and legal question, and there is no reason to draw her into broad governmental correspondence.
+
+---
+
+## Phil Hernandez
+
+**Status:** DO NOT INCLUDE.
+
+Although he has a factual connection to the room-and-board arrangement, including him could unnecessarily draw attention to the SNAP circumstances of other residents and does not materially advance the policy purpose of this correspondence.
+
+---
+
 # Distribution Research Status
 
-**Approximate completion at this checkpoint: 50%.**
+**Approximate completion at this checkpoint: 75%.**
 
 Still to complete:
 
-- federal SNAP/FNA leadership and electronic routes;
+- appropriate electronic route to Secretary Kennedy's Executive Secretariat;
 
-- USDA Western Regional SNAP leadership;
+- appropriate electronic route to Secretary Rollins;
 
-- USDA civil-rights contacts;
+- individual USDA Western Regional SNAP and civil-rights contacts;
 
-- DOJ Disability Rights Section;
+- DOJ Disability Rights Section electronic correspondence route;
 
-- HHS civil-rights contacts;
+- final HHS civil-rights contact verification;
 
-- additional California CalFresh leadership;
+- additional California CalFresh leadership where warranted;
 
-- additional San Bernardino County officials;
+- additional San Bernardino County leadership where warranted;
 
-- correct San Bernardino County supervisor;
+- claimant's correct San Bernardino County supervisor;
 
-- complete contact information for elected representatives;
+- final district/contact verification for Pete Aguilar;
+
+- final constituent-contact routes for Alex Padilla and Adam Schiff;
+
+- final electronic contact information for James C. Ramos;
+
+- final electronic contact information for Eloise Gómez Reyes;
 
 - relevant congressional committee leadership;
 
 - Jesus Garcia's professional contact route;
 
-- Phil Hernandez's contact information from the existing notice;
-
-- final verification of every email address;
+- final verification of every electronic address;
 
 - removal of duplicates;
 
-- final determination of who belongs in the electronic CC field versus the body-only distribution list.
+- final decision regarding body-only recipients versus electronic CC recipients.
 
 ---
 
@@ -551,3 +641,4 @@ Still to complete:
 **The electronic CC address must then be the best legitimate electronic route available to reach that person or office.**
 
 No address should be invented merely to make the list complete.
+
