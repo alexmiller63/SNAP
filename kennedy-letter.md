@@ -574,3 +574,275 @@ involvement in the circumstances of the case.
 
 ---
 
+# Elected Representatives
+
+## Joe Baca Jr.
+
+    Supervisor, Fifth District
+
+    San Bernardino County Board of Supervisors
+
+    Contact
+
+        Email
+
+            Supervisor.Baca@bos.sbcounty.gov
+
+        Telephone
+
+            909-387-4565
+
+        Mailing address
+
+            385 N. Arrowhead Avenue
+
+            Fifth Floor
+
+            San Bernardino, CA 92415
+
+    Why included
+
+        Supervisor Baca is my local county representative.
+
+        He also has a county-level oversight connection to
+
+        the agency administering CalFresh.
+
+---
+
+## Pete Aguilar
+
+    Member of Congress
+
+    U.S. House of Representatives
+
+    Contact
+
+        Telephone
+
+            909-890-4445
+
+        San Bernardino District Office
+
+            685 E. Carnegie Drive
+
+            Suite 100
+
+            San Bernardino, CA 92408
+
+        Electronic contact
+
+            Official congressional constituent-contact form
+
+    Why included
+
+        Representative Aguilar represents the San Bernardino
+
+        area in Congress.
+
+        He has both a constituent-assistance role and a
+
+        federal legislative and oversight interest in federal
+
+        benefit programs.
+
+    Contact note
+
+        His office uses an official constituent-contact form
+
+        rather than publishing a direct constituent email
+
+        address.
+
+---
+
+## Alex Padilla
+
+    United States Senator
+
+    California
+
+    Contact
+
+        Telephone
+
+            310-231-4494
+
+        Los Angeles Office
+
+            255 E. Temple Street
+
+            Suite 1860
+
+            Los Angeles, CA 90012
+
+        Electronic contact
+
+            Official "Write to Alex" constituent-contact form
+
+    Why included
+
+        Senator Padilla represents California in the United
+
+        States Senate.
+
+        He has federal constituent-services and legislative
+
+        responsibilities relevant to federal benefits policy.
+
+    Contact note
+
+        His federal-agency casework channel is separate from
+
+        his general constituent-correspondence channel.
+
+        This policy letter should be submitted through
+
+        "Write to Alex."
+
+---
+
+## Adam Schiff
+
+    United States Senator
+
+    California
+
+    Contact
+
+        Electronic contact
+
+            Official Senate constituent-contact form
+
+    Why included
+
+        Senator Schiff represents California.
+
+        He also serves on the Senate Committee on Agriculture,
+
+        Nutrition, and Forestry.
+
+            This gives him a direct legislative connection
+
+            to SNAP and federal nutrition policy in addition
+
+            to his role as my senator.
+
+---
+
+## James C. Ramos
+
+    California State Assembly
+
+    Contact
+
+        Telephone
+
+            909-889-7145
+
+        San Bernardino District Office
+
+            290 N. D Street
+
+            Suite 805
+
+            San Bernardino, CA 92401
+
+        Electronic contact
+
+            Official California Assembly contact form
+
+    Why included
+
+        Assemblymember Ramos represents the San Bernardino
+
+        area.
+
+        He also serves on the California Assembly Select
+
+        Committee on CalFresh Enrollment and Nutrition.
+
+            This gives him a specific policy connection to
+
+            this issue beyond constituent representation.
+
+---
+
+## Eloise Gómez Reyes
+
+    California State Senator
+
+    District 29
+
+    Contact
+
+        Telephone
+
+            909-888-5360
+
+        District Office
+
+            301 E. Vanderbilt Way
+
+            Suite 400
+
+            San Bernardino, CA 92408
+
+        Electronic contact
+
+            Official California Senate contact form
+
+    Why included
+
+        Senator Reyes represents the San Bernardino area in
+
+        the California Senate.
+
+        She therefore has both a constituent and state-policy
+
+        interest in CalFresh administration.
+
+---
+
+# Congressional SNAP Oversight
+
+## Senate Committee on Agriculture, Nutrition, and Forestry
+
+    Leadership
+
+        Chair
+
+            John Boozman
+
+        Ranking Member
+
+            Amy Klobuchar
+
+    Contact
+
+        Telephone
+
+            202-224-2035
+
+        Mailing address
+
+            328A Russell Senate Office Building
+
+            Washington, DC 20510
+
+    Why included
+
+        The committee has direct Senate jurisdiction relevant
+
+        to SNAP and federal nutrition policy.
+
+    Note
+
+        Senator Adam Schiff is separately listed because he
+
+        is both a California senator and a member of this
+
+        committee.
+
+---
+
