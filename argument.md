@@ -66,11 +66,31 @@ Therefore, at least two purposes appear in the legislative history:
 
 2. Congress sought to prevent manipulation of household status to obtain additional benefits.
 
+### The Loophole Congress Intended to Close
+
+Congress's second concern can be stated in practical terms.
+
+Suppose people who ordinarily constitute a single household live and eat together. Without the boarder restriction, one member might attempt to characterize himself as a "boarder" who pays the others for meals and then apply for SNAP separately. That could allow an existing household arrangement to be reorganized on paper in order to obtain additional benefits.
+
+That is not what is occurring here.
+
+The claimant actually lives in a room-and-board residence operated as part of Hernandez Room and Board, which operates approximately 20 room-and-board residences in the San Bernardino area. The claimant pays for room and board and acknowledges that meals are provided as part of that arrangement.
+
+The claimant is unquestionably a genuine boarder. He is not attempting to convert an ordinary shared household into multiple SNAP households by relabeling himself as a boarder. His boarder status is not being asserted as a device to obtain separate SNAP eligibility.
+
+Indeed, the claimant concedes the very factual proposition the County is likely to emphasize: **he is a boarder.**
+
+That concession matters because the anti-loophole concern identified by Congress is not implicated. There is no disputed household classification being manipulated to obtain additional benefits.
+
+The real dispute begins after boarder status is conceded.
+
+The question is whether federal disability law requires reasonable modification of the consequence ordinarily attached to that status when the meals provided through the genuine room-and-board arrangement do not adequately permit the claimant to meet his documented disability-related nutritional needs.
+
 ### Authority
 
 Congressional Record, June 9, 1981, discussion of S. 1007, "Boarders."
 
-This legislative history must be preserved because it provides evidence of the problem Congress intended the boarder exclusion to solve.
+This legislative history must be preserved because it provides evidence of the problems Congress intended the boarder exclusion to solve.
 
 ---
 
