@@ -259,3 +259,318 @@ involvement in the circumstances of the case.
         verified.
 
 ---
+
+# Federal — Disability and Civil Rights
+
+## USDA Civil Rights
+
+    Contact
+
+        Electronic contact
+
+            program.intake@usda.gov
+
+    Why included
+
+        USDA civil-rights enforcement includes disability
+
+        discrimination in USDA-funded nutrition programs,
+
+        including SNAP.
+
+---
+
+## Luis Perez
+
+    Director, Disability Rights Section
+
+    Civil Rights Division
+
+    U.S. Department of Justice
+
+    Contact
+
+        Telephone
+
+            202-307-0663
+
+        Mailing address
+
+            U.S. Department of Justice
+
+            Civil Rights Division
+
+            Disability Rights Section
+
+            950 Pennsylvania Avenue NW
+
+            Washington, DC 20530
+
+    Why included
+
+        The Disability Rights Section implements the
+
+        Americans with Disabilities Act, including Title II.
+
+        It also coordinates federal agencies' implementation
+
+        of Section 504 of the Rehabilitation Act.
+
+    Contact note
+
+        The Disability Rights Section remains on the visible
+
+        distribution list.
+
+        A complaint-intake mailbox is not being represented
+
+        as Director Perez's correspondence email.
+
+---
+
+## U.S. Attorney's Office — Central District of California
+
+    Civil Rights Section
+
+    Contact
+
+        Email
+
+            USACAC.CV-CivilRights@usdoj.gov
+
+        Telephone
+
+            213-894-2879
+
+        Fax
+
+            213-894-7819
+
+        Mailing address
+
+            United States Attorney's Office
+
+            Central District of California
+
+            Civil Division — Civil Rights Section
+
+            300 N. Los Angeles Street
+
+            Suite 7516
+
+            Los Angeles, CA 90012
+
+    Why included
+
+        San Bernardino County lies within the Central
+
+        District of California.
+
+        The office's Civil Rights Section handles federal
+
+        civil-rights matters, including matters involving
+
+        the Americans with Disabilities Act.
+
+---
+
+## HHS Office for Civil Rights
+
+    Contact
+
+        Electronic contact
+
+            OCRComplaint@hhs.gov
+
+    Why included
+
+        HHS's federal civil-rights office has responsibility
+
+        for disability-discrimination matters within programs
+
+        under HHS jurisdiction.
+
+---
+
+# California — CalFresh and State Administration
+
+## Jennifer Troia
+
+    Director
+
+    California Department of Social Services
+
+    Contact
+
+        Electronic contact
+
+            piar@dss.ca.gov
+
+    Why included
+
+        CDSS administers CalFresh at the state level.
+
+    Contact note
+
+        piar@dss.ca.gov is the CDSS public-assistance inquiry
+
+        and routing address.
+
+        It is not Director Troia's personal email address.
+
+---
+
+## California Department of Social Services — State Hearings Division
+
+    Contact
+
+        Electronic contact
+
+            SHDCSU@dss.ca.gov
+
+    Why included
+
+        My CalFresh case is presently pending within the
+
+        California State Hearings system.
+
+---
+
+## Margaret A. Boyd
+
+    Chief Administrative Law Judge
+
+    California Department of Social Services
+
+    State Hearings Division
+
+    Contact
+
+        Electronic route
+
+            SHDCSU@dss.ca.gov
+
+    Why included
+
+        Judge Boyd is the senior administrative law official
+
+        responsible for the State Hearings Division in which
+
+        my case is pending.
+
+    Contact note
+
+        SHDCSU@dss.ca.gov is the State Hearings Division
+
+        address.
+
+        It is not Judge Boyd's personal email address.
+
+---
+
+## California Department of Social Services — Civil Rights
+
+    Contact
+
+        Electronic contact
+
+            crb@dss.ca.gov
+
+    Why included
+
+        This office is relevant to disability discrimination
+
+        and civil-rights requirements affecting California
+
+        social-services programs.
+
+---
+
+# San Bernardino County
+
+## James LoCurto
+
+    Director
+
+    San Bernardino County Transitional Assistance Department
+
+    Contact
+
+        Electronic contact
+
+            TADInquiries@hss.sbcounty.gov
+
+    Why included
+
+        Mr. LoCurto directs the county department responsible
+
+        for administering CalFresh locally.
+
+    Contact note
+
+        TADInquiries@hss.sbcounty.gov is the department's
+
+        public inquiry address.
+
+        It is not Mr. LoCurto's personal email address.
+
+---
+
+## San Bernardino County Transitional Assistance Department
+
+    Contact
+
+        Electronic contact
+
+            TADInquiries@hss.sbcounty.gov
+
+    Why included
+
+        TAD is the county agency responsible for local
+
+        administration of CalFresh.
+
+        It is the agency directly involved in the benefits
+
+        determination underlying the hearing.
+
+---
+
+## Jesus Vera-Garcia
+
+    Adult Protective Services
+
+    San Bernardino County
+
+    Contact
+
+        Professional email
+
+            Jesus.Vera-Garcia@hss.sbcounty.gov
+
+    Why included
+
+        Mr. Vera-Garcia has direct service involvement in my
+
+        circumstances.
+
+        He has discussed supportive services relating to meal
+
+        preparation.
+
+        His involvement therefore bears directly on the
+
+        factual intersection between disability-related needs
+
+        and food preparation.
+
+    Contact note
+
+        This professional email address was supplied directly
+
+        by me rather than located in the County's public
+
+        directory.
+
+---
+
