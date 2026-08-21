@@ -372,3 +372,101 @@ San Bernardino, CA 92408
 
 Senator Reyes represents the San Bernardino area and therefore has both a constituent and state-policy interest in CalFresh administration.
 
+---
+
+# Congressional SNAP Oversight
+
+## Senate Committee on Agriculture, Nutrition, and Forestry
+
+**Chair:** John Boozman  
+
+**Ranking Member:** Amy Klobuchar
+
+Telephone: 202-224-2035
+
+328A Russell Senate Office Building  
+
+Washington, DC 20510
+
+The committee has direct Senate jurisdiction relevant to SNAP and federal nutrition policy.
+
+Senator Adam Schiff is separately included because he represents California and serves on this committee.
+
+---
+
+# Electronic Delivery
+
+## To
+
+**Robert F. Kennedy Jr. — HHS Executive Secretariat**  
+
+[HHSExecSec@hhs.gov](mailto:HHSExecSec@hhs.gov)
+
+## CC
+
+**U.S. Department of Agriculture**  
+
+[askusda@usda.gov](mailto:askusda@usda.gov)
+
+**USDA Civil Rights**  
+
+[program.intake@usda.gov](mailto:program.intake@usda.gov)
+
+**U.S. Attorney's Office — Central District of California, Civil Rights Section**  
+
+[USACAC.CV-CivilRights@usdoj.gov](mailto:USACAC.CV-CivilRights@usdoj.gov)
+
+**HHS Office for Civil Rights**  
+
+[OCRComplaint@hhs.gov](mailto:OCRComplaint@hhs.gov)
+
+**California Department of Social Services — Public Assistance Inquiry and Response**  
+
+[piar@dss.ca.gov](mailto:piar@dss.ca.gov)
+
+**California Department of Social Services — State Hearings Division**  
+
+[SHDCSU@dss.ca.gov](mailto:SHDCSU@dss.ca.gov)
+
+**California Department of Social Services — Civil Rights**  
+
+[crb@dss.ca.gov](mailto:crb@dss.ca.gov)
+
+**San Bernardino County Transitional Assistance Department**  
+
+[TADInquiries@hss.sbcounty.gov](mailto:TADInquiries@hss.sbcounty.gov)
+
+**Jesus Vera-Garcia — San Bernardino County Adult Protective Services**  
+
+[Jesus.Vera-Garcia@hss.sbcounty.gov](mailto:Jesus.Vera-Garcia@hss.sbcounty.gov)
+
+**Joe Baca Jr. — San Bernardino County Board of Supervisors**  
+
+[Supervisor.Baca@bos.sbcounty.gov](mailto:Supervisor.Baca@bos.sbcounty.gov)
+
+---
+
+# Separate Electronic Delivery
+
+The following recipients are included in the distribution but require separate submission through their official electronic contact forms:
+
+**Pete Aguilar**  
+
+Official congressional constituent-contact form
+
+**Alex Padilla**  
+
+Official "Write to Alex" constituent-contact form
+
+**Adam Schiff**  
+
+Official Senate constituent-contact form
+
+**James C. Ramos**  
+
+Official California Assembly contact form
+
+**Eloise Gómez Reyes**  
+
+Official California Senate contact form
+
