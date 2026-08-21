@@ -1,54 +1,20 @@
-# Kennedy Letter — CC / Distribution List
+# Letter to Secretary Robert F. Kennedy Jr.
 
-## Purpose
+## CalFresh, Disability, and the Make America Healthy Again Nutrition Agenda
 
-This document is the working master distribution list for the letter to Secretary Robert F. Kennedy Jr. concerning the intersection of:
+**Status:** Working draft  
 
-- Make America Healthy Again;
-
-- nutrition and chronic disease;
-
-- SNAP / CalFresh;
-
-- the federal SNAP boarder exclusion;
-
-- disability-related dietary needs;
-
-- Title II of the Americans with Disabilities Act;
-
-- Section 504 of the Rehabilitation Act; and
-
-- the pending California CalFresh administrative hearing.
-
-The final list should be deliberately broad but relevant.
-
-A recipient should generally be included because the person or office:
-
-1. has responsibility for the issue;
-
-2. represents the claimant;
-
-3. exercises relevant oversight; or
-
-4. has direct factual or service involvement in the individual case.
-
-The goal is to provide complete publicly available official contact information in the body of the letter and, wherever possible, identify a legitimate electronic address that can actually reach the recipient's office.
-
-No email address should be guessed or inferred.
+**Distribution research:** Approximately 50% complete
 
 ---
 
-# Primary Recipient
+# To
 
 ## Robert F. Kennedy Jr.
 
 **Title:** Secretary of Health and Human Services  
 
 **Agency:** U.S. Department of Health and Human Services
-
-**Role in this correspondence:**  
-
-Primary addressee. The letter asks Secretary Kennedy to consider the relationship between the Make America Healthy Again nutrition agenda, disability law, and the operation of the SNAP boarder exclusion.
 
 **Official correspondence route:**  
 
@@ -66,19 +32,37 @@ Washington, DC 20201
 
 No appropriate direct public email address verified yet.
 
-**Status:** VERIFIED IN PART — continue search for legitimate electronic submission route.
+---
+
+# CC / Distribution
+
+The final distribution list is deliberately broad but relevant.
+
+A recipient should generally be included because the person or office:
+
+1. has responsibility for the issue;
+
+2. represents the claimant;
+
+3. exercises relevant oversight; or
+
+4. has direct factual or service involvement in the individual case.
+
+The goal is to provide complete publicly available official contact information and, wherever possible, a legitimate electronic address that can actually reach the recipient or the appropriate office.
+
+No email address should be guessed or inferred.
 
 ---
 
-# Federal — USDA / SNAP
+## Federal — USDA / SNAP
 
-## Brooke L. Rollins
+### Brooke L. Rollins
 
 **Title:** Secretary of Agriculture  
 
 **Agency:** U.S. Department of Agriculture
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
 USDA administers SNAP. Secretary Rollins has also worked jointly with Secretary Kennedy on the federal government's current nutrition and Make America Healthy Again agenda.
 
@@ -94,7 +78,7 @@ Do not use USDA press-office email addresses merely because they are publicly av
 
 ---
 
-## USDA Food and Nutrition Administration
+### USDA Food and Nutrition Administration
 
 **Agency:** U.S. Department of Agriculture
 
@@ -104,13 +88,13 @@ USDA reorganized its nutrition-program administration. Current organizational na
 
 ---
 
-## Shiela Corley
+### Shiela Corley
 
 **Title:** Acting Administrator  
 
 **Agency:** USDA Food and Nutrition Administration
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
 Senior official in the USDA organization administering federal nutrition-assistance programs.
 
@@ -118,11 +102,11 @@ Senior official in the USDA organization administering federal nutrition-assista
 
 ---
 
-## Dr. Eve Stoody
+### Dr. Eve Stoody
 
 **Agency:** USDA Food and Nutrition Administration
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
 Heads the division currently responsible for SNAP policy and regulations.
 
@@ -130,11 +114,11 @@ Heads the division currently responsible for SNAP policy and regulations.
 
 ---
 
-## USDA Western Regional Office
+### USDA Western Regional Office
 
 **Agency:** USDA nutrition-program administration
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
 Regional USDA office responsible for California SNAP administration.
 
@@ -158,11 +142,11 @@ SNAP administration and regional civil-rights oversight.
 
 ---
 
-# Federal — Disability and Civil Rights
+## Federal — Disability and Civil Rights
 
-## USDA Civil Rights
+### USDA Civil Rights
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
 USDA civil-rights enforcement includes disability discrimination in USDA-funded programs, including SNAP.
 
@@ -170,11 +154,11 @@ USDA civil-rights enforcement includes disability discrimination in USDA-funded 
 
 ---
 
-## U.S. Department of Justice — Disability Rights Section
+### U.S. Department of Justice — Disability Rights Section
 
 **Agency:** Civil Rights Division, U.S. Department of Justice
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
 Relevant to Title II of the Americans with Disabilities Act and federal coordination of disability-rights requirements.
 
@@ -182,11 +166,11 @@ Relevant to Title II of the Americans with Disabilities Act and federal coordina
 
 ---
 
-## HHS Office for Civil Rights
+### HHS Office for Civil Rights
 
 **Agency:** U.S. Department of Health and Human Services
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
 Federal disability-rights enforcement within HHS.
 
@@ -194,15 +178,15 @@ Federal disability-rights enforcement within HHS.
 
 ---
 
-# California — CalFresh and State Administration
+## California — CalFresh and State Administration
 
-## Jennifer Troia
+### Jennifer Troia
 
 **Title:** Director  
 
 **Agency:** California Department of Social Services
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
 CDSS administers CalFresh at the state level.
 
@@ -218,11 +202,11 @@ CDSS identifies this address for public-assistance inquiries and routing to the 
 
 ---
 
-## California Department of Social Services — State Hearings Division
+### California Department of Social Services — State Hearings Division
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
-The claimant's CalFresh matter is presently before the California State Hearings system.
+The CalFresh matter discussed in this letter is presently before the California State Hearings system.
 
 **Electronic route:**  
 
@@ -232,13 +216,13 @@ SHDCSU@dss.ca.gov
 
 ---
 
-## Margaret A. Boyd
+### Margaret A. Boyd
 
 **Title:** Chief Administrative Law Judge  
 
 **Agency:** California Department of Social Services, State Hearings Division
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
 Senior official responsible for the State Hearings Division.
 
@@ -246,13 +230,13 @@ Senior official responsible for the State Hearings Division.
 
 ---
 
-## California Department of Social Services — Civil Rights
+### California Department of Social Services — Civil Rights
 
 **Electronic route:**  
 
 crb@dss.ca.gov
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
 Relevant to disability discrimination and civil-rights issues in California social-services programs.
 
@@ -260,11 +244,11 @@ Relevant to disability discrimination and civil-rights issues in California soci
 
 ---
 
-# San Bernardino County
+## San Bernardino County
 
-## San Bernardino County Transitional Assistance Department
+### San Bernardino County Transitional Assistance Department
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
 County agency responsible for local administration of CalFresh.
 
@@ -276,15 +260,15 @@ TADInquiries@hss.sbcounty.gov
 
 ---
 
-## Jesus Garcia
+### Jesus Garcia
 
 **Title:** Adult Protective Services Social Worker  
 
 **Agency:** San Bernardino County
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
-Direct service involvement in the claimant's circumstances.
+Direct service involvement in the circumstances underlying this matter.
 
 Mr. Garcia has discussed supportive services relating to meal preparation, making his involvement relevant to the factual intersection between disability-related needs and food preparation.
 
@@ -296,27 +280,27 @@ Use verified professional contact information only.
 
 ---
 
-# Elected Representatives
+## Elected Representatives
 
-## Pete Aguilar
+### Pete Aguilar
 
 **Office:** U.S. House of Representatives
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
-Federal congressional representation for the San Bernardino area and potential federal constituent assistance/oversight connection.
+Federal congressional representation for the San Bernardino area and potential federal constituent-assistance and oversight connection.
 
 **Status:** VERIFIED AS RELEVANT — complete local-office and electronic contact information being finalized.
 
 ---
 
-## Alex Padilla
+### Alex Padilla
 
 **Office:** United States Senate  
 
 **State:** California
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
 U.S. Senator representing California.
 
@@ -324,13 +308,13 @@ U.S. Senator representing California.
 
 ---
 
-## Adam Schiff
+### Adam Schiff
 
 **Office:** United States Senate  
 
 **State:** California
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
 U.S. Senator representing California.
 
@@ -338,11 +322,11 @@ U.S. Senator representing California.
 
 ---
 
-## James C. Ramos
+### James C. Ramos
 
 **Office:** California State Assembly
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
 State legislative representation for the San Bernardino area.
 
@@ -350,11 +334,11 @@ State legislative representation for the San Bernardino area.
 
 ---
 
-## Eloise Gómez Reyes
+### Eloise Gómez Reyes
 
 **Office:** California State Senate
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
 State legislative representation for the San Bernardino area.
 
@@ -362,9 +346,9 @@ State legislative representation for the San Bernardino area.
 
 ---
 
-## San Bernardino County Supervisor
+### San Bernardino County Supervisor
 
-**Role in this correspondence:**  
+**Reason for inclusion:**  
 
 Local elected representation and county oversight.
 
@@ -374,9 +358,9 @@ Do not guess which member of the San Bernardino County Board of Supervisors repr
 
 ---
 
-# Directly Involved Factual Party
+## Directly Involved Factual Party
 
-## Phil Hernandez
+### Phil Hernandez
 
 **Role:** Room-and-Board Operator
 
@@ -384,7 +368,7 @@ Do not guess which member of the San Bernardino County Board of Supervisors repr
 
 Direct factual connection to the room-and-board arrangement underlying the CalFresh boarder issue.
 
-The correspondence should identify Mr. Hernandez neutrally and should not transform the Kennedy letter into a complaint against him or the residence.
+The correspondence should identify Mr. Hernandez neutrally and should not transform this letter into a complaint against him or the residence.
 
 **Contact information:**  
 
@@ -398,13 +382,73 @@ No email address currently available.
 
 ---
 
-# Removed From Distribution
+# Letter
 
-## Alyssa — Step Up
+Dear Secretary Kennedy:
 
-**Status:** DO NOT INCLUDE.
+I am writing because I believe you have correctly changed the direction and focus of the Department of Health and Human Services through the Make America Healthy Again initiative.
 
-Although Alyssa has a connection to the claimant, her involvement is peripheral to the legal and policy issue. Including her could unnecessarily involve her in a broad governmental correspondence without materially advancing the purpose of the letter.
+In particular, I strongly support the renewed federal emphasis on nutrition, chronic disease, and the proposition that what Americans eat is an important part of their health.
+
+I am currently involved in a California CalFresh administrative hearing that presents that principle in an unusually concrete way.
+
+I am a person with a disability who lives in a room-and-board residence. Meals are included as part of my room and board. My physician has documented a medically appropriate diet for management of my health.
+
+Federal SNAP law contains a rule excluding boarders from participating as separate SNAP households.
+
+The legislative history is remarkably straightforward about one reason Congress adopted that rule: if people pay room and board, Congress reasoned, they already receive meals and therefore do not need food stamps.
+
+I do receive meals.
+
+I do not dispute that fact, and I do not dispute that I am a boarder.
+
+Congress identified another reason for the boarder restriction as well: closing a loophole through which a member of an ordinary household might characterize himself as a "boarder" and seek separate SNAP benefits.
+
+That concern is not implicated in my case.
+
+I am not relabeling an ordinary household arrangement to obtain additional benefits. I am unquestionably a genuine boarder, and I concede that status. There is no household-status loophole being exploited here.
+
+Thus, one of the problems Congress expressly sought to prevent is simply absent.
+
+The remaining issue is whether the ordinary consequence of genuine boarder status must be reasonably modified when applied to a person with documented disability-related dietary needs.
+
+That is precisely where my case begins rather than ends.
+
+The federal rule asks whether meals are provided.
+
+My disability raises a different question: what happens when the meals that are provided do not permit a person to follow the diet medically recommended for management of his disability?
+
+My case is now before a California Administrative Law Judge.
+
+I am asking for a reasonable disability-related modification that would permit me to participate in CalFresh notwithstanding the ordinary boarder exclusion.
+
+I am not asking for a special or enlarged SNAP benefit.
+
+I am not asking the government to determine how much extra money my medical condition deserves.
+
+If I prevail, I am asking to receive the same benefit determined under the same ordinary SNAP calculation that applies to other participating households.
+
+There is another reason I believe this case deserves attention beyond my individual hearing.
+
+The federal government is now telling Americans that nutrition matters profoundly to health. That message is particularly important for Americans managing chronic disease.
+
+Yet an older federal food-assistance rule can treat the mere provision of meals as eliminating the need for food-purchasing assistance without addressing whether those meals permit a person with a disability to follow medically recommended nutrition.
+
+I do not suggest that Congress secretly wrote a nutritional-adequacy exception into the boarder rule.
+
+It did not.
+
+The question is instead whether our disability laws — including Title II of the Americans with Disabilities Act and Section 504 of the Rehabilitation Act — require an individualized reasonable modification when an otherwise valid benefits rule operates in this way for a person with a disability.
+
+That question is presently being litigated in my administrative hearing.
+
+I am bringing it to your attention because it appears to sit directly at the intersection of two important federal commitments: the integrity of the Supplemental Nutrition Assistance Program and the renewed national recognition that appropriate nutrition is an essential component of health.
+
+I respectfully ask that your Department examine this issue and consider whether current federal policy adequately addresses the interaction among SNAP's boarder rule, federal disability law, and medically appropriate nutrition.
+
+Respectfully,
+
+Alexander Ferrari Miller
 
 ---
 
@@ -412,7 +456,7 @@ Although Alyssa has a connection to the claimant, her involvement is peripheral 
 
 The final email should contain two related but distinct distribution mechanisms.
 
-### Body Distribution List
+## Body Distribution List
 
 The beginning of the email should visibly identify all relevant recipients, including people for whom no email address is available.
 
@@ -430,7 +474,7 @@ For each recipient, include as much verified public information as appropriate:
 
 - verified email address or other electronic route.
 
-### Actual Email CC Field
+## Actual Email CC Field
 
 The electronic CC field should contain every verified email address that legitimately reaches a recipient or the appropriate recipient's office.
 
@@ -458,11 +502,11 @@ When no public email address exists, search for:
 
 5. another legitimate electronic submission method.
 
-Physical mail is a last resort because the claimant currently needs an electronic means of transmitting the correspondence.
+Physical mail is a last resort because an electronic means of transmitting the correspondence is needed.
 
 ---
 
-# Research Status
+# Distribution Research Status
 
 **Approximate completion at this checkpoint: 50%.**
 
