@@ -324,15 +324,25 @@ It does, however, provide an important answer to the Martin question.
 
 ---
 
-## 14. Why a Token Benefit May Not Be an Adequate Accommodation
+## 14. The Benefit Amount Should Be Determined Under the Ordinary SNAP Formula
 
-An accommodation should address the actual disability-related need.
+The claimant does not request that the Administrative Law Judge determine how many dollars are necessary to compensate for his disability-related dietary needs.
 
-If the medical evidence establishes an overall dietary pattern rather than the need for one or two particular foods, an arbitrary token allotment may not provide meaningful access to the medically appropriate nutrition at issue.
+Such an approach would create a special benefit amount without a statutory calculation method.
 
-The argument should not ask the Administrative Law Judge to invent an arbitrary dollar figure.
+The requested modification concerns access to SNAP.
 
-Instead, the requested relief should be tied to whatever benefit calculation and eligibility mechanisms are legally available if the boarder exclusion is reasonably modified.
+If that modification is required, the claimant's allotment should then be determined under the same ordinary benefit-calculation rules applicable to other participating households.
+
+The claimant seeks neither an enhanced allotment because of disability nor an arbitrarily reduced allotment because his eligibility arises through a disability-related modification.
+
+This distinction is consistent with the reasoning of **Alexander v. Choate**. The claimant does not seek a greater benefit in order to guarantee a particular nutritional outcome. He seeks meaningful access to the same defined benefit available to other eligible participants.
+
+Accordingly, an arbitrary token allotment — for example, an amount selected merely because it appears sufficient to supplement some of the meals provided by the residence — would not answer the legal question presented.
+
+If disability law requires reasonable modification of the eligibility barrier, the appropriate consequence is access to the ordinary SNAP program, with the benefit determined according to the ordinary SNAP calculation.
+
+The accommodation should modify the barrier to access, not create a different benefit.
 
 ---
 
