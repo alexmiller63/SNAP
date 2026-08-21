@@ -240,3 +240,101 @@ The government should be required to identify what essential feature of SNAP wou
 
 The fact that a modification creates an exception to an ordinary rule does not, standing alone, establish that the modification fundamentally alters the program.
 
+However, because the boarder exclusion appears directly in federal statute, this issue requires particularly careful legal research.
+
+---
+
+## 13. The Congressional Assumption and the Individual Case
+
+The 1981 legislative history is particularly important.
+
+Congress reasoned that boarders who already receive meals do not need food stamps for those meals.
+
+The individual case raises a different factual situation:
+
+- meals are provided;
+
+- the existence of those meals is not disputed;
+
+- the person has medically documented dietary requirements;
+
+- the provided meals may not adequately permit compliance with those medical recommendations; and
+
+- supplemental food purchasing power is requested to address that disability-related gap.
+
+Therefore, the accommodation argument can be framed as addressing a circumstance in which the factual assumption underlying the congressional rule does not completely hold.
+
+This does not automatically establish a legal right to the modification.
+
+It does, however, provide an important answer to the Martin question.
+
+---
+
+## 14. Why a Token Benefit May Not Be an Adequate Accommodation
+
+An accommodation should address the actual disability-related need.
+
+If the medical evidence establishes an overall dietary pattern rather than the need for one or two particular foods, an arbitrary token allotment may not provide meaningful access to the medically appropriate nutrition at issue.
+
+The argument should not ask the Administrative Law Judge to invent an arbitrary dollar figure.
+
+Instead, the requested relief should be tied to whatever benefit calculation and eligibility mechanisms are legally available if the boarder exclusion is reasonably modified.
+
+---
+
+## 15. Anticipated County Arguments
+
+### Argument: The claimant is a boarder.
+
+Response:
+
+The existence of the boarding arrangement is not necessarily the principal disputed fact. The disability argument assumes for purposes of analysis that the ordinary boarder rule applies and asks whether reasonable modification is nevertheless required.
+
+### Argument: Congress expressly excluded boarders.
+
+Response:
+
+Correct. That makes the fundamental-alteration question important. It does not eliminate the independent obligation to consider applicable federal disability law.
+
+### Argument: SNAP does not pay for special diets.
+
+Response:
+
+The requested relief is not a special-diet medical-expense deduction. It is a request for disability-related modification of an eligibility rule that otherwise eliminates access to SNAP purchasing power.
+
+### Argument: Meals are already provided.
+
+Response:
+
+That was one of the assumptions expressly identified when Congress enacted the boarder exclusion. The disability evidence is relevant precisely because it may demonstrate that the provided meals do not adequately meet the medically documented nutritional needs involved in this individual case.
+
+### Argument: An exception would fundamentally alter SNAP.
+
+Response:
+
+The agency should identify specifically how this narrowly tailored accommodation would alter the essential nature of SNAP, particularly given SNAP's statutory nutritional purpose and existing recognition of disability in portions of its household rules.
+
+---
+
+## 16. Evidence Currently Preserved in the SNAP Repository
+
+The repository currently includes:
+
+- `Dr. Wolf - Diet Letter SHN-105328147.JPG`
+
+- `Dr. Chidi - Diabetes RX SHN-105328147.pdf`
+
+- `Hearing - Notice - SHN-105328147.pdf`
+
+- `hearing-contact.md`
+
+- `README.md`
+
+The county's Position Statement has not yet been added.
+
+When received, the Position Statement should be preserved in this repository and analyzed against this argument point by point.
+
+---
+
+## 17. Position Statement
+
