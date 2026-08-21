@@ -338,3 +338,95 @@ When received, the Position Statement should be preserved in this repository and
 
 ## 17. Position Statement
 
+The county's Position Statement will be especially important because it should identify:
+
+- the factual basis for the county's decision;
+
+- the statutes and regulations relied upon;
+
+- the county's interpretation of the boarder rule;
+
+- documentary evidence; and
+
+- the arguments the county intends to present at the hearing.
+
+Once received, this document should be revised to include a section responding separately to each material county contention.
+
+---
+
+## 18. Research Still Required
+
+Before the hearing, research should continue on the following central question:
+
+**Can Title II of the ADA or Section 504 require a reasonable modification of an eligibility restriction contained directly in the federal statute governing a public-benefit program, and under what circumstances would such a modification constitute a fundamental alteration?**
+
+Particular attention should be given to:
+
+- Supreme Court authority;
+
+- Ninth Circuit authority;
+
+- federal public-benefit cases;
+
+- SNAP or other USDA disability cases;
+
+- cases distinguishing essential eligibility requirements from modifiable policies;
+
+- cases applying the fundamental-alteration defense;
+
+- Section 504 cases involving federally funded benefit programs;
+
+- legislative history of the 1981 boarder exclusion;
+
+- USDA interpretations of the boarder provisions; and
+
+- California authority concerning reasonable accommodations in CalFresh administration.
+
+No case should be included as supporting authority until the actual opinion has been located and verified.
+
+---
+
+## 19. Citation Verification Rule
+
+Because inaccurate or fabricated legal citations can seriously damage credibility, every authority used in the final hearing submission must be independently verified.
+
+For every case:
+
+1. Confirm that the case exists.
+
+2. Open the actual judicial opinion from a reliable source.
+
+3. Confirm the court, year, and citation.
+
+4. Confirm that the quoted or paraphrased proposition actually appears in the opinion.
+
+5. Determine whether later authority has limited, distinguished, or overruled the relevant holding.
+
+For every statute or regulation:
+
+1. Verify the current text from an official government source whenever possible.
+
+2. Confirm the subsection.
+
+3. Determine whether the provision was in effect at the relevant time.
+
+For legislative history:
+
+1. Locate the actual committee report, Congressional Record, or other primary legislative document.
+
+2. Preserve the page containing the relevant language.
+
+3. Quote only language actually appearing in the source.
+
+**No citation becomes a brick in the hearing argument merely because an AI generated it.**
+
+---
+
+## 20. Current Core Theory
+
+The present theory can be summarized as follows:
+
+**Congress excluded boarders from SNAP partly on the assumption that people paying room and board already receive the meals that SNAP purchasing power would otherwise help them obtain. The claimant does receive meals and does not dispute that fact. However, because of disability-related medical needs documented by his physician, those meals may not provide meaningful access to the medically appropriate nutrition he requires. Title II of the ADA and Section 504 require consideration of reasonable disability-related modifications, subject to the essential-eligibility and fundamental-alteration limitations. The claimant therefore requests a narrowly tailored modification allowing access to CalFresh purchasing power to supplement the provided meals with medically appropriate food. The central legal question is whether that individualized modification can coexist with the essential purposes and requirements of SNAP or would fundamentally alter the program.**
+
+That question should be resolved from verified statutory text, legislative history, disability law, case law, medical evidence, and the county's eventual Position Statement—not from assumptions about either side's position.
+
